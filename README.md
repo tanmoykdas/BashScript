@@ -1,3 +1,3 @@
 # BashScript
 
-Code taken from AI and here i am just colleted then into one folder 
+Code taken from AI and here i am just colleted theminto one folder 
